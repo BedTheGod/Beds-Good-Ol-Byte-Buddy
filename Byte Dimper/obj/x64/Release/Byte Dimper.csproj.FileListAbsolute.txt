@@ -1,0 +1,22 @@
+A:\repos\Byte Dimper\Byte Dimper\bin\x64\Release\Byte Dimper.exe.config
+A:\repos\Byte Dimper\Byte Dimper\bin\x64\Release\Byte Dimper.exe
+A:\repos\Byte Dimper\Byte Dimper\bin\x64\Release\Byte Dimper.pdb
+A:\repos\Byte Dimper\Byte Dimper\obj\x64\Release\Byte Dimper.csprojAssemblyReference.cache
+A:\repos\Byte Dimper\Byte Dimper\obj\x64\Release\Byte_Dimper.Form1.resources
+A:\repos\Byte Dimper\Byte Dimper\obj\x64\Release\Byte_Dimper.Properties.Resources.resources
+A:\repos\Byte Dimper\Byte Dimper\obj\x64\Release\Byte Dimper.csproj.GenerateResource.cache
+A:\repos\Byte Dimper\Byte Dimper\obj\x64\Release\Byte Dimper.csproj.CoreCompileInputs.cache
+A:\repos\Byte Dimper\Byte Dimper\obj\x64\Release\Byte Dimper.exe
+A:\repos\Byte Dimper\Byte Dimper\obj\x64\Release\Byte Dimper.pdb
+A:\repos\Byte Dimper\Byte Dimper\obj\x64\Release\Byte_Dimper.Parser.resources
+D:\repos\Byte Dimper\Byte Dimper\bin\x64\Release\Byte Dimper.exe.config
+D:\repos\Byte Dimper\Byte Dimper\bin\x64\Release\Byte Dimper.exe
+D:\repos\Byte Dimper\Byte Dimper\bin\x64\Release\Byte Dimper.pdb
+D:\repos\Byte Dimper\Byte Dimper\obj\x64\Release\Byte Dimper.csproj.AssemblyReference.cache
+D:\repos\Byte Dimper\Byte Dimper\obj\x64\Release\Byte_Dimper.Form1.resources
+D:\repos\Byte Dimper\Byte Dimper\obj\x64\Release\Byte_Dimper.Parser.resources
+D:\repos\Byte Dimper\Byte Dimper\obj\x64\Release\Byte_Dimper.Properties.Resources.resources
+D:\repos\Byte Dimper\Byte Dimper\obj\x64\Release\Byte Dimper.csproj.GenerateResource.cache
+D:\repos\Byte Dimper\Byte Dimper\obj\x64\Release\Byte Dimper.csproj.CoreCompileInputs.cache
+D:\repos\Byte Dimper\Byte Dimper\obj\x64\Release\Byte Dimper.exe
+D:\repos\Byte Dimper\Byte Dimper\obj\x64\Release\Byte Dimper.pdb
